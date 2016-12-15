@@ -1,2 +1,4 @@
 123
-myfirstgit file 
+myfirstgit file
+Creating a new branch is quick
+
